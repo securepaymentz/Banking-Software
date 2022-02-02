@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+<title>💎icon copy</title>
+<defs>
+<filter id="a" x="-6.8%" y="-22.8%" width="113.5%" height="145.6%">
+<feGaussianBlur in="SourceGraphic" stdDeviation="25"/>
+</filter>
+</defs>
+<g fill="none" fill-rule="evenodd">
+<g transform="translate(-929 -538)">
+<rect width="1440" height="874" fill="#F7F7F7"/>
+<g transform="translate(250 164)">
+<g transform="translate(0 234)">
+<polygon points="11 79 1120 79 1120 408 11 408" fill="#E4E4E4" filter="url(#a)"/>
+<path d="m12.819-5.1792e-16 1114.4 1.0358e-15c4.4576-8.1885e-16 6.074 0.46413 7.7037 1.3357 1.6296 0.87154 2.9086 2.1505 3.7801 3.7801 0.87153 1.6296 1.3357 3.2461 1.3357 7.7037v383.18h-1140l3.4528e-16 -383.18c-5.459e-16 -4.4576 0.46413-6.074 1.3357-7.7037 0.87154-1.6296 2.1505-2.9086 3.7801-3.7801 1.6296-0.87154 3.2461-1.3357 7.7037-1.3357z" fill="#fff"/>
+<g transform="translate(679 140)" fill-rule="nonzero">
+<circle cx="16" cy="16" r="16" fill="#1269FF" opacity=".75169"/>
+<g transform="translate(9 4)" fill="#fff">
+<polygon points="7.498 0 7.498 8.87 14.995 12.22" fill-opacity=".602"/>
+<polygon points="7.498 0 0 12.22 7.498 8.87"/>
+<polygon points="7.498 17.968 7.498 23.995 15 13.616" fill-opacity=".602"/>
+<polygon points="7.498 23.995 7.498 17.967 0 13.616"/>
+<polygon points="7.498 16.573 14.995 12.22 7.498 8.872" fill-opacity=".2"/>
+<polygon points="0 12.22 7.498 16.573 7.498 8.872" fill-opacity=".602"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>

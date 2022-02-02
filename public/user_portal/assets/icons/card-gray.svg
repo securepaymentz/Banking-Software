@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>!Icons/Used/Commerce/Credit_card</title>
+    <defs>
+        <filter x="-6.8%" y="-31.8%" width="113.5%" height="163.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="25" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Stratus-Bank" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="StratusBank/AccountOverview" transform="translate(-1032.000000, -185.000000)">
+            <rect fill="#F7F7F7" x="0" y="0" width="1440" height="1308"></rect>
+            <g id="Account-Overview" transform="translate(250.000000, 165.000000)">
+                <polygon id="Shadow" fill="#E4E4E4" filter="url(#filter-1)" points="15 21 1124 21 1124 257 15 257"></polygon>
+                <g id="DoubleButtons_Bank">
+                    <g id="RightButton/Default" transform="translate(569.000000, 0.000000)">
+                        <path d="M0,0 L571,0 L571,54 L19.229139,54 C12.5427485,54 10.1181017,53.3038079 7.67365722,51.9965047 C5.22921278,50.6892015 3.31079847,48.7707872 2.00349528,46.3263428 C0.696192084,43.8818983 8.27823274e-16,41.4572515 -1.42475429e-15,34.770861 L0,0 L0,0 Z" id="AssetButtonLeft/Back/Active" fill="#E4E8F0" transform="translate(285.500000, 27.000000) rotate(180.000000) translate(-285.500000, -27.000000) "></path>
+                        <text id="My-Cards" font-family="TTHoves-Bold, TT Hoves" font-size="14" font-weight="bold" line-spacing="20" fill="#16161F">
+                            <tspan x="253.37" y="29">My Cards</tspan>
+                        </text>
+                    </g>
+                    <g id="Group" transform="translate(777.000000, 12.000000)">
+                        <path d="M25,14 L25,21 C25.0325803,21.2739149 24.9377481,21.5476433 24.7426957,21.7426957 C24.5755079,21.9098835 24.3505174,22.0034401 24.1171519,22.0063063 L24,22 L6,22 C5.72608506,22.0325803 5.45235669,21.9377481 5.25730429,21.7426957 C5.09011652,21.5755079 4.9965599,21.3505174 4.99375849,21.1171519 L5,21 L5,14 L25,14 Z M12,18 L8,18 C7.44771525,18 7,18.4477153 7,19 C7,19.5128358 7.38604019,19.9355072 7.88337887,19.9932723 L8,20 L12,20 C12.5522847,20 13,19.5522847 13,19 C13,18.4871642 12.6139598,18.0644928 12.1166211,18.0067277 L12,18 Z M24,8 C24.2739149,7.96741967 24.5476433,8.06225189 24.7426957,8.25730429 C24.9098835,8.42449206 25.0034401,8.64948258 25.0062415,8.88284814 L25,9 L25,11 L5,11 L5,9 C4.96741967,8.72608506 5.06225189,8.45235669 5.25730429,8.25730429 C5.42449206,8.09011652 5.64948258,7.9965599 5.88284814,7.99375849 L6,8 L24,8 Z" id="Shape" fill="#16161F"></path>
+                        <path d="M12,18 C12.5522847,18 13,18.4477153 13,19 C13,19.5522847 12.5522847,20 12,20 L12,20 L8,20 C7.44771525,20 7,19.5522847 7,19 C7,18.4477153 7.44771525,18 8,18 L8,18 Z M25,11 L25,14 L5,14 L5,11 L25,11 Z" id="Combined-Shape" fill="#A7B4CB" opacity="0.6"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

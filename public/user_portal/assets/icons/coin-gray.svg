@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>!Icons/Used/Commerce/Credit_card</title>
+    <defs>
+        <filter x="-6.8%" y="-11.6%" width="113.5%" height="123.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="25" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Stratus-Bank" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="StratusBank/PaymentRequest" transform="translate(-992.000000, -181.000000)">
+            <rect fill="none" x="0" y="0" width="1440" height="889"></rect>
+            <g id="Group-3" transform="translate(250.000000, 164.000000)">
+                <polygon id="Shadow" fill="none" filter="url(#filter-1)" points="17 18 1126 18 1126 666 17 666"></polygon>
+                <g id="DoubleButtons_Bank">
+                    <g id="Path" transform="translate(737.000000, 12.000000)">
+                        <path d="M25,12 C25,15.866 21.866,19 18,19 C14.134,19 11,15.866 11,12 C11,8.13401 14.134,5 18,5 C21.866,5 25,8.13401 25,12 Z" fill="#A7B4CB" opacity="0.6"></path>
+                        <path d="M19,18 C19,21.866 15.866,25 12,25 C8.13401,25 5,21.866 5,18 C5,14.134 8.13401,11 12,11 C15.866,11 19,14.134 19,18 Z" fill="#16161F"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
