@@ -14,10 +14,10 @@ Get a Quote: https://SecurePaymentz.com
 The SecurePaymentz Team
 
 --
-If you have any other questions, please feel free to contact at +1 800-591-8085 or send an e-mail to us.
-2175 NW Raleigh St #110 Portland, OR, United States of America
 
 
 Skype: SecurePaymentz
+
 Whatsapp: +1 802 448 2467
+
 Telegram: @SecurePaymentz
