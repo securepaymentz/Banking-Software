@@ -1,5 +1,11 @@
 Welcome to https://securepaymentz.com, your customizable Banking Software Solution. As one of the leading providers in the banking software industry, we are excited to inform you that we are launching a new, FREE banking software demo, that is available now for your use! This system will show you all that we have to offer, through a hands-on demo, where you can see just how we can help you find the best system for your company.
 The Features included and highlighted in this demo include the following;
+
+
+![Banking Software (User Section)](https://securepaymentz.com/img/screens/home.png)
+
+
+
 1. Admin / User Dashboard Banking Software
 2. 1 currency
 3. Transfer Money to another accounts
