@@ -13,6 +13,7 @@ We *offer 3 premium plans for purchase, to best suit your needs, or we can custo
 
 Download our FREE Banking Software demo today , and start exploring all that we can do for you. We can’t wait to get started and work together with you.
 
+<Features>
 
 1 - The Login gives the user the opportunity to access  the banking system.
 ![Banking Software - intro ](https://securepaymentz.com/image-1.png)
