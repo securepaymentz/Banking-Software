@@ -2,7 +2,7 @@ Welcome to https://securepaymentz.com, your customizable Banking Software Soluti
 The Features included and highlighted in this demo include the following;
 
 
-![Banking Software (User Section)](https://securepaymentz.com/img/screens/home.png)
+(https://securepaymentz.com/img/screens/home.png)
 
 
 
