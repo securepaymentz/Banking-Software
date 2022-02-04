@@ -14,16 +14,17 @@ We *offer 3 premium plans for purchase, to best suit your needs, or we can custo
 Download our FREE Banking Software demo today , and start exploring all that we can do for you. We can’t wait to get started and work together with you.
 
 
+1 - The Login gives the user the opportunity to access  the banking system.
 ![Banking Software - intro ](https://securepaymentz.com/image-1.png)
-The Login gives the user the opportunity to access  the banking system.
+2 - The client can become a user by completing all the fields on the sign-up page.
 ![Banking Software - Sign-up](https://securepaymentz.com/image-2.png)
-The client can become a user by completing all the fields on the sign-up page.
+3 - This is the dashboard where the user can see their balance, transfer money or check their statements.
 ![Banking Software - Dashboard ](https://securepaymentz.com/image-3.png)
-This is the dashboard where the user can see their balance, transfer money or check their statements.
+4 - Users can transfer money to other users by visiting this section and following the steps the system guides them through.
 ![Banking Software - Transfer money to users ](https://securepaymentz.com/image-4.png)
-Users can transfer money to other users by visiting this section and following the steps the system guides them through.
+5 - This section helps the user to see all the reports
 ![Banking Software - Reports ](https://securepaymentz.com/image-5.png)
-This section helps the user to see all the reports
+
 
 
 Get a Quote: https://SecurePaymentz.com
