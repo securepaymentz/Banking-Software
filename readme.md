@@ -15,6 +15,10 @@ Download our FREE Banking Software demo today , and start exploring all that we 
 
 
 ![Banking Software - intro ](https://securepaymentz.com/image-1.png)
+![Banking Software - Sign-up](https://securepaymentz.com/image-2.png)
+![Banking Software - Dashboard ](https://securepaymentz.com/image-3.png)
+![Banking Software - Transfer money to users ](https://securepaymentz.com/image-4.png)
+![Banking Software - Reports ](https://securepaymentz.com/image-5.png)
 
 
 
