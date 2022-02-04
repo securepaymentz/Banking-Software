@@ -15,12 +15,15 @@ Download our FREE Banking Software demo today , and start exploring all that we 
 
 
 ![Banking Software - intro ](https://securepaymentz.com/image-1.png)
+The Login gives the user the opportunity to access  the banking system.
 ![Banking Software - Sign-up](https://securepaymentz.com/image-2.png)
+The client can become a user by completing all the fields on the sign-up page.
 ![Banking Software - Dashboard ](https://securepaymentz.com/image-3.png)
+This is the dashboard where the user can see their balance, transfer money or check their statements.
 ![Banking Software - Transfer money to users ](https://securepaymentz.com/image-4.png)
+Users can transfer money to other users by visiting this section and following the steps the system guides them through.
 ![Banking Software - Reports ](https://securepaymentz.com/image-5.png)
-
-
+This section helps the user to see all the reports
 
 
 Get a Quote: https://SecurePaymentz.com
