@@ -13,7 +13,7 @@ We *offer 3 premium plans for purchase, to best suit your needs, or we can custo
 
 Download our Banking Software demo today , and start exploring all that we can do for you. We can’t wait to get started and work together with you.
 
-**Demo Features**
+**Demo Features:**
 
 1 - The Login gives the user the opportunity to access  the banking system.
 ![Banking Software - intro ](https://securepaymentz.com/image-1.png)
@@ -30,13 +30,13 @@ Download our Banking Software demo today , and start exploring all that we can d
 
 **Premium Features:**
 
-1 - Banking Software Premium Version (Blue Design)
+1 - Banking Software Premium Version **(Blue Design)**
 ![Banking Software Premium Version](https://securepaymentz.com/image-6.png)
 
-2 - Banking Software Premium Version (Green Design)
+2 - Banking Software Premium Version **(Green Design)**
 ![Banking Software Premium Version](https://securepaymentz.com/image-7.png)
 
-3 - Banking Software Premium Version (Purple Design)
+3 - Banking Software Premium Version **(Purple Design)**
 ![Banking Software Premium Version](https://securepaymentz.com/image-8.png)
 
 **Get The Premium Banking Software visiting: https://SecurePaymentz.com**
