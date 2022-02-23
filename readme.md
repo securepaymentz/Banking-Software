@@ -28,8 +28,7 @@ Download our Banking Software demo today , and start exploring all that we can d
 
 
 
-
-**Get The Premium Banking Software visiting: https://SecurePaymentz.com**
+**Premium Features:**
 
 1 - Banking Software Premium Version (Blue Design)
 ![Banking Software Premium Version](https://securepaymentz.com/image-6.png)
@@ -39,6 +38,8 @@ Download our Banking Software demo today , and start exploring all that we can d
 
 3 - Banking Software Premium Version (Purple Design)
 ![Banking Software Premium Version](https://securepaymentz.com/image-8.png)
+
+**Get The Premium Banking Software visiting: https://SecurePaymentz.com**
 
 
 
