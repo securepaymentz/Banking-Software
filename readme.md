@@ -39,9 +39,11 @@ Download our Banking Software demo today , and start exploring all that we can d
 3 - Banking Software Premium Version **(Purple Design)**
 ![Banking Software Premium Version](https://securepaymentz.com/image-8.png)
 
-**Get The Premium Banking Software visiting: https://SecurePaymentz.com**
 
+**Choose your plan**
 ![Banking Software Prices](https://securepaymentz.com/image-9.png)
+
+**Get The Premium Banking Software visiting: https://SecurePaymentz.com**
 
 The SecurePaymentz Team
 
