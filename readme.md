@@ -28,7 +28,10 @@ Features:
 
 
 
-Get The Premium Banking Software visiting: https://SecurePaymentz.com
+
+
+
+///// Get The Premium Banking Software visiting: https://SecurePaymentz.com /////
 
 1 - Banking Software Premium Version (Blue Design)
 ![Banking Software Premium Version](https://securepaymentz.com/image-6.png)
