@@ -40,7 +40,7 @@ Download our Banking Software demo today , and start exploring all that we can d
 ![Banking Software Premium Version](https://securepaymentz.com/image-8.png)
 
 
-**Choose your plan**
+**What's the best plan for you?**
 ![Banking Software Prices](https://securepaymentz.com/image-9.png)
 
 **Get The Premium Banking Software visiting: https://SecurePaymentz.com**
